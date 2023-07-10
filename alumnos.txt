@@ -1,0 +1,6 @@
+CANTIDAD:5
+Pedro;Gonzalez;12345678
+Juan;Rodriguez;12345679
+Maria;Lopez;12345680
+Ana;Martinez;12345681
+Carlos;Fernandez;12345682
